@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Frontend Developer
+* I'm Frontend Developer
+* I'm studying it steadily now.
 <!--
 **limyeonsoo/limyeonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
