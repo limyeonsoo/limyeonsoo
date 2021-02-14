@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-* I'm Frontend Developer
-* I'm studying it steadily now.
+* 🔭 I wanna be a Frontend Developer.
+* ⚡ I'm interest about JS, React, Node.js.
+* 🤔 I'm studying it steadily now.
 <!--
 **limyeonsoo/limyeonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
