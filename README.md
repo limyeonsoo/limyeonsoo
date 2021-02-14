@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Studying
 
-https://img.shields.io/badge/React-white?logo=React **React**
+[![React Badge](https://img.shields.io/badge/React-white?logo=React)] **React**
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&https://www.notion.so/React-3652f7bbf64b4116b29390649f1bcaa7/)](https://www.notion.so/React-3652f7bbf64b4116b29390649f1bcaa7)
 
