@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Studying
+## Studying
+
 **React**
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 (https://www.notion.so/React-3652f7bbf64b4116b29390649f1bcaa7)
