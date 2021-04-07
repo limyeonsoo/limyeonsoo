@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 😎 I wanna be a Frontend Developer.
-* 👨🏻‍💻  I'm interest about JS, React, Node.js.
+* 👨🏻‍💻  I'm interested in HTML, CSS, JavaScript, React, Node.js.
 * 🤔 I'm studying it steadily now.
 <!--
 **limyeonsoo/limyeonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Studying these days
 
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/Study-d74ab7beaeee4b69ab2e7af5dcbea257/)
+![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/Public-ysl-s-Blog-86954710b8e748d4befe434886ccbfcd)](https://www.notion.so/Public-ysl-s-Blog-86954710b8e748d4befe434886ccbfcd)
 
 
 ![Algorithm Badge](https://img.shields.io/badge/Algorithm-white) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/Algorithm-d4022ad74b344d73b98b60be28c59faa/)](https://www.notion.so/Algorithm-d4022ad74b344d73b98b60be28c59faa)
